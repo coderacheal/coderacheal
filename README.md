@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Racheal
 - 👀 I’m interested in Machine Learning and Data Analytics
-- 🌱 I’m currently learning HTML CSS JavaScript
+- 🌱 I’m currently learning HTML CSS AWS
 - 💞️ I’m looking to collaborate on Machine Learning and Web Development
 - 📫 How to reach me @coderacheal@gmail.com
 
