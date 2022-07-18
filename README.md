@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Data Analytics
 - 🌱 I’m currently learning HTML CSS AWS
 - 💞️ I’m looking to collaborate on Machine Learning and Web Development
-- 📫 How to reach me @coderacheal@gmail.com
+- 📫 How to reach me  at coderacheal@gmail.com
 
 <!---
 coderacheal/coderacheal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
