@@ -8,6 +8,6 @@
 - 📫 How to reach me: @coderacheal@gmail.com
 - ⚡ Fun fact: I love The Matrix, SpaceX and Lana Del Rey
 
-## Tech Stack
+## 🖥️ Tech Stack
 - Python
 - MySQL
