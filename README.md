@@ -1,4 +1,4 @@
-# Hi there 👋
+   # Hi there 👋 I am Racheal
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## About me
@@ -9,5 +9,5 @@
 - ⚡ Fun fact: I love The Matrix, SpaceX and Lana Del Rey
 
 ## Tech Stack
-Python
-MySQL
+- Python
+- MySQL
