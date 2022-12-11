@@ -11,3 +11,4 @@
 ## 🖥️ Tech Stack
 - Python
 - MySQL
+- HTML/CSS
