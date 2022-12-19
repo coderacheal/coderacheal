@@ -13,4 +13,8 @@
 - MySQL
 - HTML/CSS
 
+## 🧭 Technologies
+- Git
+- Docker
+
 
