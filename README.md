@@ -12,6 +12,7 @@
 - Python
 - MySQL
 - HTML/CSS
+- JavaScript
 
 ## 🧭 Technologies
 - Git
