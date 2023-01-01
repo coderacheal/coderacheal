@@ -18,5 +18,5 @@
 - Git
 - Docker
 
-## My blog
+## 📰 My blog
 [Latest Post](https://rb.gy/1ssy6b)
