@@ -14,9 +14,9 @@
 - HTML/CSS
 - JavaScript
 
-## 🧭 Technologies
+## 🧰 Technologies
 - Git
 - Docker
 
 ## 📰 My blog
-[Latest Post](https://rb.gy/1ssy6b)
+[Latest Blog Post](https://rb.gy/1ssy6b)
