@@ -14,7 +14,7 @@
 - HTML/CSS
 - JavaScript
 
-## 🛠️ Technologies
+## 🛠️ Tools & Technologies
 - Git
 - Docker
 
