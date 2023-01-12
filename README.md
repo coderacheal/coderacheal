@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=66ff66&center=true&vCenter=true&width=1000&lines=Hi+there!%F0%9F%91%8BI'm+Racheal;Nice+to+meet+you!%F0%9F%98%84)](https://git.io/typing-svg) 
+## Hi there! 👋 My name is Racheal
 
 ## About me
 
