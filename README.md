@@ -20,4 +20,4 @@
 ## 📰 My blog
 [Latest Blog Post](https://rb.gy/1ssy6b)
 
-[![Racheal's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderacheal)](https://github.com/coderacheal/github-readme-stats)
+[![Racheal's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderacheal&show_icons=true&theme=highcontrast)](https://github.com/coderacheal/github-readme-stats)
