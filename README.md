@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love The Matrix, SpaceX and Lana Del Rey
 
 ## 🖥️ Tech Stack
-- Python
+- Python              [![Racheal's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderacheal&show_icons=true&theme=highcontrast)](https://github.com/coderacheal/github-readme-stats)
 - MySQL
 - HTML/CSS
 - JavaScript
