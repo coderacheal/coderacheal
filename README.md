@@ -8,15 +8,14 @@
 - ⚡ Fun fact: I love The Matrix, SpaceX and Lana Del Rey
 
 ## 🖥️ Tech Stack 
-|--------------|:-----:|
-- Python      <br>|  <a href="https://github.com/rica213/rica213"><img align="center" width="400" src="https://spotify-github-profile.vercel.app/api/view?uid=12165174461&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></a>  |               
+- Python                   
 - MySQL                       
 - HTML/CSS                  
 - JavaScript 
 
 | General         |:notes::notes::notes::notes::notes: |
 |--------------|:-----:|
-| - 🔭 I’m currently a Micronaut <br>- 🌱 Learning Web Development, Data Structures, and Algorithms <br>- 💬 Interested in collaboration <br>- 😄 Pronouns: She/Her <br>|  <a href="https://github.com/rica213/rica213"><img align="center" width="400" src="https://spotify-github-profile.vercel.app/api/view?uid=12165174461&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></a>  | 
+| Python <br> MySQL <br> HTML/CSS <br> JavaScript <br>| <a href="https://github.com/rica213/rica213"><img align="center" width="400" src="https://spotify-github-profile.vercel.app/api/view?uid=12165174461&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></a>  | 
 
 [![Racheal's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderacheal&show_icons=true&theme=highcontrast)](https://github.com/coderacheal/github-readme-stats)
 
