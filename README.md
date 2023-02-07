@@ -2,7 +2,7 @@
 
 ## About me
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Blockchain Technology
 - 👯 I’m looking to collaborate on Machine Learning projects interegrated into responsive websites
 - 📫 How to reach me: coderacheal@gmail.com
 - ⚡ Fun fact: I love The Matrix, SpaceX and Lana Del Rey
