@@ -7,13 +7,18 @@
 - 📫 How to reach me: coderacheal@gmail.com
 - ⚡ Fun fact: I love The Matrix, SpaceX and Lana Del Rey
 
-## 🖥️ Tech Stack             🛠️ Tools & Technologies
-- Python                      <li>Git</li>
-- MySQL                       - Docker
-- HTML/CSS                    - Jest
+## 🖥️ Tech Stack         
+- Python                     
+- MySQL                       
+- HTML/CSS                  
 - JavaScript
 
 [![Racheal's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderacheal&show_icons=true&theme=highcontrast)](https://github.com/coderacheal/github-readme-stats)
+
+## 🛠️ Tools & Technologies
+<li>Git</li>
+<li>Docker</li>
+<li>Jest</li>
 
 ## 📰 My blog
 [Latest Blog Post](https://rb.gy/1ssy6b)
