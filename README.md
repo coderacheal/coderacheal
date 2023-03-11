@@ -8,10 +8,11 @@
 - ⚡ Fun fact: I love The Matrix, SpaceX and Lana Del Rey
 
 ## 🖥️ Tech Stack 
-- Python                   
+|--------------|:-----:|
+|- Python     <br> | Redux |              
 - MySQL                       
 - HTML/CSS                  
-- JavaScript 
+- JavaScript <br> | React|
 
 | My Stats   |What I am listening to:notes::notes: |
 |--------------|:-----:|
