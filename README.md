@@ -22,5 +22,5 @@
 <li>Docker</li>
 <li>Jest</li>
 
-## 📰 My blog
-[Latest Blog Post](https://rb.gy/1ssy6b)
+## 📰 My Medium
+[Latest Blog Post](https://medium.com/@coderacheal/npm-versus-pip-the-battle-of-the-packages-3120ccb7578a)
