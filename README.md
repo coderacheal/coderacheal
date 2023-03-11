@@ -1,4 +1,4 @@
-## Hi there! 👋 My name is Racheal
+## Hi there! 👋 My name is Racheal <p align="right"><img src="https://komarev.com/ghpvc/?username=coderacheal&style=flat-square&color=1e9747"></p>
 
 ## About me
 
