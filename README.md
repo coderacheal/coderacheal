@@ -1,4 +1,4 @@
-## Hi there! 👋 My name is Racheal <p align="right"><img src="https://komarev.com/ghpvc/?username=coderacheal&style=flat-square&color=1e9747"></p>
+## Hi there! 👋 My name is Racheal  <p align="right"><img src="https://komarev.com/ghpvc/?username=coderacheal&style=flat-square&color=1e9747"></p>
 
 ## About me
 
@@ -22,5 +22,5 @@
 <li>Docker</li>
 <li>Jest</li>
 
-## 📰 Find me on Medium
-[Latest Blog Post](https://medium.com/@coderacheal/npm-versus-pip-the-battle-of-the-packages-3120ccb7578a)
+## 📰 [My Medium](https://medium.com/@coderacheal)
+   [Latest Article](https://medium.com/@coderacheal/npm-versus-pip-the-battle-of-the-packages-3120ccb7578a)
