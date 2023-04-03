@@ -18,9 +18,7 @@
 - React & Redux
 
 ## 🛠️ Tools & Technologies
-<li>Git</li>
-<li>Docker</li>
-<li>Jest</li>
+<li>Git</li> <li>Docker</li> <li>Jest</li>
 
 ## 📰 [My Medium](https://medium.com/@coderacheal)
 [Read my article on Machine Learning Algorithms For Absolute Beginners Here](https://medium.com/@coderacheal/machine-learning-for-absolute-beginners-69ce9bb08b46)
