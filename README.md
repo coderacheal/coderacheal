@@ -1,4 +1,4 @@
-## Hi there! 👋 My name is Racheal <img src="./assets/animated-flame-01.gif" height="100px"/> <p align="right"><img src="https://komarev.com/ghpvc/?username=coderacheal&style=flat-square&color=1e9747"></p>
+## Hi there! 👋 My name is Racheal <img src="./assets/animated-flame-01.gif" height="100px" align="right"/> <p align="right"><img src="https://komarev.com/ghpvc/?username=coderacheal&style=flat-square&color=1e9747"></p>
  
 ## About me
 
