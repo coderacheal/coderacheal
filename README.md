@@ -1,5 +1,5 @@
-## Hi there! 👋 My name is Racheal  <p align="right"><img src="https://komarev.com/ghpvc/?username=coderacheal&style=flat-square&color=1e9747"></p> <img src="./assets/animated-flame-01.gif" height="24px"/>
-
+## Hi there! 👋 My name is Racheal <img src="./assets/animated-flame-01.gif" height="100px"/> <p align="right"><img src="https://komarev.com/ghpvc/?username=coderacheal&style=flat-square&color=1e9747"></p>
+ 
 ## About me
 
 - 🌱 I’m currently learning Blockchain Technology
