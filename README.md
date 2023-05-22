@@ -4,10 +4,10 @@
  
 # About Me
 
-- 🌱 I’m currently learning Blockchain Technology
-- 👯 I’m looking to collaborate on Machine Learning projects interegrated into responsive websites
-- 📫 How to reach me: coderacheal@gmail.com
-- ⚡ Fun fact: I love The Matrix, SpaceX and Lana Del Rey
+### - 🌱 I’m currently learning Blockchain Technology
+### - 👯 I’m looking to collaborate on Machine Learning projects interegrated into responsive websites
+### - 📫 How to reach me: coderacheal@gmail.com
+### - ⚡ Fun fact: I love The Matrix, SpaceX and Lana Del Rey
 
 | My Stats   |What I am listening to:notes::notes: |
 |--------------|:-----:|
@@ -22,7 +22,7 @@
   
 </div>
 
-#  💻 𝙼𝚢 Tech Stack
+#  💻 My Tech Stack
 
 ## **Languages** <br>
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -40,7 +40,6 @@
 ## **Frameworks & Tools** <br>
 ![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![Netlify](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=ffffff)
@@ -48,14 +47,14 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
-![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=ffffff)
 
-## AI & Ml <br>
+## Cloud & AI<br>
+![AWS](https://img.shields.io/badge/Amazon_AWS-0078D7?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+<div> </div>
 
-
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+# 🔔 My Latest GitHub Metrics
   | Free Templates | Metrics |
 |--------|------------|
 |-----------|![Metrics](https://metrics.lecoq.io/coderacheal?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)|
