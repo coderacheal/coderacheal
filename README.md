@@ -32,10 +32,13 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 
 ## **Databases** <br>
-
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## **Testing** <br>
+![Jest](https://img.shields.io/badge/Jest-%23F05032?style=for-the-badge&logo=Jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=red)
 
 ## **Frameworks & Tools** <br>
 ![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
@@ -51,6 +54,7 @@
 ## Cloud & AI<br>
 ![AWS](https://img.shields.io/badge/Amazon_AWS-0078D7?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 
 <div> </div>
 
