@@ -14,7 +14,7 @@
 | [![Racheal's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderacheal&show_icons=true&theme=chartreuse-dark)](https://github.com/coderacheal/github-readme-stats)<br>| <a href="https://github.com/coderacheal/coderacheal"><img align="center" width="400" src="https://spotify-github-profile.vercel.app/api/view?uid=12165174461&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></a>  | 
 
 
-<<div align="center">
+<div align="center">
   
   | STREAK |
 |--------|
@@ -35,6 +35,7 @@
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## **Frameworks & Tools** <br>
 ![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
@@ -49,7 +50,7 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=ffffff)
 
-## AI & ML <br>
+## AI & Ml <br>
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
