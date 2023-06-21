@@ -61,7 +61,7 @@
 # 🔔  My Latest GitHub Metrics  <img src="./assets/animated-flame-01.gif" height="100px" align="right"/> 
   | **Free Templates** | **Metrics** |
 |--------|------------|
-| <a href="https://github.com/coderacheal/rails-starter-pack"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=coderacheal&repo=rails-starter-pack&theme=chartreuse-dark&bg_color=040f0f" alt="rails-starter-pack"></a> <a href="https://github.com/coderacheal/rails-starter-pack"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=coderacheal&repo=rails-starter-pack&theme=chartreuse-dark&bg_color=040f0f" alt="rails-starter-pack"></a>|![Metrics](https://metrics.lecoq.io/coderacheal?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)|
+|<a href="https://github.com/coderacheal/rails-starter-pack"><img width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=coderacheal&repo=rails-starter-pack&theme=chartreuse-dark&bg_color=040f0f" alt="rails-starter-pack"></a>|![Metrics](https://metrics.lecoq.io/coderacheal?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)|
 
 
 # 📰 [𝙼𝚢 Medium](https://medium.com/@coderacheal)
