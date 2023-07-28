@@ -6,7 +6,7 @@
 
 ### - 🌱 I’m currently learning Blockchain Technology
 ### - 👯 I’m looking to collaborate on Machine Learning projects interegrated into responsive websites
-### - 📫 How to reach me: coderacheal@gmail.com
+### - 📫 How to reach me: hello@rachealappiahkubi.com
 ### - ⚡ Fun fact: I love The Matrix, SpaceX and Lana Del Rey
 ### - 📰 [Read my latest Medium post here](https://medium.com/@coderacheal/the-confusion-matrix-explained-like-you-were-five-75ae704577f2)
 
@@ -35,11 +35,12 @@
 ## **Databases** <br>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ## **Testing** <br>
 ![Jest](https://img.shields.io/badge/Jest-%23F05032?style=for-the-badge&logo=Jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=red)
+![Capybara](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=purple)
 
 ## **Frameworks & Tools** <br>
 ![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
