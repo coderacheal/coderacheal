@@ -5,9 +5,9 @@
 # About 
 
 ### - 🌱 I’m currently learning Web3
-### - 👯 I’m looking to collaborate on Machine Learning projects interegrated into responsive websites
+### - 👯 I’m looking to collaborate on projects that leverage data and AI
 ### - 📫 How to reach me: hello@rachealappiahkubi.com
-### - ⚡ Fun fact: I love The Matrix, SpaceX and Lana Del Rey
+### - ⚡ Fun fact: I love The Matrix, SpaceX, and Lana Del Rey
 ### - 📰 [Read my latest Medium post here](https://medium.com/@coderacheal/the-confusion-matrix-explained-like-you-were-five-75ae704577f2)
 
 | My Stats   |What I am listening to:notes::notes: |
