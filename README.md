@@ -40,7 +40,6 @@
 ## **Testing** <br>
 ![Jest](https://img.shields.io/badge/Jest-%23F05032?style=for-the-badge&logo=Jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=red)
-![Capybara](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=purple)
 
 ## **Frameworks & Tools** <br>
 ![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
