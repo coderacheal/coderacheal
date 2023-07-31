@@ -4,7 +4,7 @@
  
 # About 
 
-### - 🌱 I’m currently learning Blockchain Technology
+### - 🌱 I’m currently learning Web3
 ### - 👯 I’m looking to collaborate on Machine Learning projects interegrated into responsive websites
 ### - 📫 How to reach me: hello@rachealappiahkubi.com
 ### - ⚡ Fun fact: I love The Matrix, SpaceX and Lana Del Rey
