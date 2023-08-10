@@ -19,7 +19,8 @@
   
   | STREAK |
 |--------|
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=coderacheal&theme=chartreuse-dark&hide_border=false)<br/> | 
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=coderacheal&hide_longest_streak=true&theme=chartreuse-dark&hide_border=false)<br/> | 
+
   
 </div>
 
