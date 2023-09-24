@@ -1,6 +1,6 @@
 ## <p align="right"><img src="https://komarev.com/ghpvc/?username=coderacheal&style=flat-square&color=1e9747"></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=250&center=true&vCenter=true&color=green&width=600&lines=Hi+👋+I'm+Racheal!;and+I+like+clean+code..." alt="Typing SVG" align="middle" width="100%" /><br>
+
  
 # About 
 
