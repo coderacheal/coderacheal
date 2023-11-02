@@ -15,6 +15,14 @@
 | [![Racheal's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderacheal&show_icons=true&theme=chartreuse-dark)](https://github.com/coderacheal/github-readme-stats)<br>| <a href="https://github.com/coderacheal/coderacheal"><img align="center" width="400" src="https://spotify-github-profile.vercel.app/api/view?uid=12165174461&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></a>  | 
 
 
+<div align="center">
+  
+  | STREAK |
+|--------|
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=coderacheal&hide_longest_streak=true&theme=chartreuse-dark&hide_border=false)<br/> | 
+
+  
+</div>
 
 #  💻 My Tech Stack
 
